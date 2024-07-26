@@ -1,0 +1,1 @@
+.full-loading{display:flex;position:fixed;z-index:200;top:0;left:0;align-items:center;justify-content:center;width:100%;height:100%;background-color:#f0f2f566}.full-loading.absolute{position:absolute;z-index:300;top:0;left:0}html[data-theme=dark] .full-loading:not(.light){background-color:#00000073}.full-loading.dark{background-color:#00000073}

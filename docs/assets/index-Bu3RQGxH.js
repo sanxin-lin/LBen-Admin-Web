@@ -1,0 +1,1 @@
+import{r as n}from"./entry/index-Dbo3_afc-1721993229481.js";function s(e){var u=n.useRef(e);u.current=n.useMemo(function(){return e},[e]);var t=n.useRef();return t.current||(t.current=function(){for(var a=[],r=0;r<arguments.length;r++)a[r]=arguments[r];return u.current.apply(this,a)}),t.current}export{s as u};
